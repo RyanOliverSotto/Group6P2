@@ -1,0 +1,52 @@
+body {
+    margin: 0 auto;
+    background-color: black;
+    background-image: url("../images/bookshelf.jpeg");
+    background-size: cover;
+    background-position-y: 25px;
+    background-position-x: center;
+    font-family:'Coda Caption', sans-serif; 
+    font-size: 20px;
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+
+.well {
+    color: white;
+
+}
+.btn{
+    margin: 10px 10px 10px 10px;
+    height: 250px;
+    width:300px;
+    border-radius: 25px;
+    font-size: 40px;
+}
+
+.icon{
+    margin-top:10px;
+    height: 50px;
+    width: 50px;
+}
+
+
+.dropdown{
+    text-align: center;
+}
+
+
+#indexbg {
+    height: 700px;
+    background-image: url("../images/citybackground.jpeg");
+    background-size: cover;
+}
+
+#jumboHeader {
+    margin-left: 5px;
+    margin-top: 25px;
+    color: orange;
+    text-align: center;
+    font-family:'Coda Caption', sans-serif;
+}
